@@ -9,4 +9,4 @@ streamlit.text('Boiled Egg & chapati with muttan curry')
 
 streamlit.header ('mom breakfast')
 streamlit.text('🥣 Soup & Salad')
-streamlitr.text('🥑 avocado & Orange')
+streamlit.text('🥑 avocado & Orange')
