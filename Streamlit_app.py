@@ -12,5 +12,5 @@ streamlit.text('🥣 Soup & Salad')
 streamlit.text('🥑 avocado & Orange')
 
 import Pandas 
-my_fruit_list = pandas.read_csv("C:\Users\004KNT744\Documents\Panda.csv")
+my_fruit_list = pandas.read_csv("C:\Users\004KNT744\Desktop\New Text Document (2).txt")
 streamlit.dataframe(my_fruit_list)
