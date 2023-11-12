@@ -1,3 +1,3 @@
 import streamlit
 
-streamlit.title('my parent Lunch plan')
+streamlit.title('My parent Lunch plan')
