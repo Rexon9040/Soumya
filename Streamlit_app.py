@@ -11,6 +11,8 @@ streamlit.header ('mom breakfast')
 streamlit.text('🥣 Soup & Salad')
 streamlit.text('🥑 avocado & Orange')
 
-
+import requests
+fruityvice_response = requests.get("https://fruityvice.com/api/fruit/watermelon")
+streamlit.text(fruityvice_response)
 
 
